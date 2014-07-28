@@ -4,7 +4,7 @@
 import urllib2
 import redis
 
-#通过7timer API 拿到未来三天天气，返回格式为 Json
+#通过7timer API 拿到北京未来三天天气，返回格式为 Json
 weatherURL = urllib2.urlopen(url = 'http://www.7timer.com/v4/bin/civillight.php?lon=116.407&lat=39.904&ac=0&unit=metric&output=json&tzshift=0',)
 weatherData = weatherURL.read()
 
