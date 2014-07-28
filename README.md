@@ -9,4 +9,4 @@ Weather
 
 获取天气的 API 是7Timer提供的，想了解的可以看下文档：
 
-* [7Timer](http://202.127.24.18/doc.php?lang=zh-CN#civil)
+* [7Timer](http://202.127.24.18/doc.php)
